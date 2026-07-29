@@ -1,0 +1,181 @@
+{
+  "username": "sujitwave2",
+  "fullName": "Sujit Chowdhury",
+  "tagline": "Software Engineer & Indie Creator",
+  "bio": "Building OmniToolaZ — premium AI SaaS tools, automation systems, and smart web applications to accelerate business growth.",
+  "avatarUrl": "https://public-files.gumroad.com/vh0k44buq2vypht295wzor6yp5sm",
+  "accentColor": "#ff90e8",
+  "googleAnalyticsId": "G-GS49CEC946",
+  "socials": {
+    "twitter": "https://twitter.com/sujitwave2",
+    "github": "https://github.com/sujitchaudhary",
+    "website": "https://sujitchaudhary.tech"
+  },
+  "theme": "dark",
+  "emailSignup": {
+    "enabled": true,
+    "title": "Join the Wave Newsletter",
+    "description": "Get notified about new templates, React boilerplates, and developer resources. No spam, unsubscribe anytime.",
+    "buttonText": "Subscribe Now",
+    "successMessage": "Thanks for subscribing! Check your inbox for updates."
+  },
+  "products": [
+    {
+      "id": "n9pppu6",
+      "name": "SupportAI – AI Customer Support Chatbot",
+      "description": "An AI-powered customer support chatbot built for automated website assistance.",
+      "price": "$0+",
+      "rating": 5,
+      "reviews": 0,
+      "tag": "",
+      "url": "https://sujitwave2.gumroad.com/l/mjfvrz",
+      "image": "https://public-files.gumroad.com/qr2x6tjbb2oe3rd0fd8vo9un4u8w",
+      "category": "SaaS"
+    },
+    {
+      "id": "9sitfb0",
+      "name": "ResumAI – AI Resume Builder SaaS | ATS Friendly Resume Maker",
+      "description": "AI resume builder SaaS tool to create ATS-friendly professional resumes.",
+      "price": "$6.25/mo",
+      "rating": 5,
+      "reviews": 0,
+      "tag": "",
+      "url": "https://sujitwave2.gumroad.com/l/aznizn",
+      "image": "https://public-files.gumroad.com/h2r0yxwgpk8l64cj3qfh8jgz2765",
+      "category": "SaaS"
+    },
+    {
+      "id": "rm77vo9",
+      "name": "Beauty Salon Business Website Template – Premium Ready-made & Custom Design",
+      "description": "Premium ready-made and customizable website template for beauty salons.",
+      "price": "$18",
+      "rating": 5,
+      "reviews": 0,
+      "tag": "",
+      "url": "https://sujitwave2.gumroad.com/l/hcgpbk",
+      "image": "https://public-files.gumroad.com/wuhxbx9rt8ywycuirmbw7w0hxadr",
+      "category": "Design"
+    },
+    {
+      "id": "beil0y6",
+      "name": "Luxury Marquise Halo Ring CAD Design – Diamond Pave Statement Ring STL File",
+      "description": "3D printable STL CAD design file for a luxury marquise halo ring.",
+      "price": "$8",
+      "rating": 5,
+      "reviews": 0,
+      "tag": "",
+      "url": "https://sujitwave2.gumroad.com/l/nxrhpx",
+      "image": "https://public-files.gumroad.com/ioedhuwfwloxqoae6egfnp0d7nfz",
+      "category": "Design"
+    },
+    {
+      "id": "frfxtr1",
+      "name": "50+ WhatsApp Automation Messages to Get Clients Fast",
+      "description": "Collection of 50+ WhatsApp outreach and automation messages to acquire clients.",
+      "price": "$1.59",
+      "rating": 5,
+      "reviews": 0,
+      "tag": "",
+      "url": "https://sujitwave2.gumroad.com/l/upwvh",
+      "image": "https://public-files.gumroad.com/5p3ut6mhejs0d8itxdr5olvy6w6o",
+      "category": "Utility"
+    },
+    {
+      "id": "xtwvf6u",
+      "name": "StudentOS — Premium Student Productivity Dashboard System",
+      "description": "Premium AI-powered student productivity dashboard system with planner, Pomodoro timer, and analytics.",
+      "price": "$29",
+      "rating": 5,
+      "reviews": 0,
+      "tag": "Popular",
+      "url": "https://sujitwave2.gumroad.com/l/guvdy",
+      "image": "https://public-files.gumroad.com/ld2zzon8hlnehqf7hg3lqfdopn8q",
+      "category": "Software"
+    },
+    {
+      "id": "g6me0ws",
+      "name": "Beauty Salon Business Website – Ready-Made + Customizable Template",
+      "description": "A fully responsive, ready-made website template tailored for beauty businesses.",
+      "price": "$9",
+      "rating": 5,
+      "reviews": 0,
+      "tag": "",
+      "url": "https://sujitwave2.gumroad.com/l/vmnfic",
+      "image": "https://public-files.gumroad.com/e12eyo0v3fqd97ru0660329h2vz6",
+      "category": "Design"
+    },
+    {
+      "id": "32ufjk2",
+      "name": "High-Converting Landing Page Template (Pro) 🚀",
+      "description": "Professional high-converting landing page template optimized for lead generation.",
+      "price": "$11",
+      "rating": 5,
+      "reviews": 0,
+      "tag": "",
+      "url": "https://sujitwave2.gumroad.com/l/ekfnxh",
+      "image": "https://public-files.gumroad.com/j7u90rp9qzmec7xxakcmz4mwmltm",
+      "category": "Design"
+    },
+    {
+      "id": "ork26kg",
+      "name": "Grocery AI – Smart Grocery List & Meal Planner (AI Powered)",
+      "description": "AI-powered application for generating smart grocery lists and weekly meal plans.",
+      "price": "$4.59/mo",
+      "rating": 5,
+      "reviews": 0,
+      "tag": "",
+      "url": "https://sujitwave2.gumroad.com/l/osehem",
+      "image": "https://public-files.gumroad.com/y8l1vb35x3ffvrp1qtq9c0a0m073",
+      "category": "SaaS"
+    },
+    {
+      "id": "7ns0ttk",
+      "name": "30-Day Home Workout Challenge (No Equipment Needed)",
+      "description": "A comprehensive 30-day home fitness guide requiring zero equipment.",
+      "price": "$8.50",
+      "rating": 5,
+      "reviews": 0,
+      "tag": "",
+      "url": "https://sujitwave2.gumroad.com/l/mowrcj",
+      "image": "https://public-files.gumroad.com/54p3mjcuehxymyfmm9rgbyhwy7ay",
+      "category": "Ebook"
+    },
+    {
+      "id": "t2n1k6c",
+      "name": "Invoice Generator Pro – Create, Manage & Download Smart Invoices",
+      "description": "Smart web app to quickly design, manage, and export professional invoices.",
+      "price": "$4.50/mo",
+      "rating": 5,
+      "reviews": 0,
+      "tag": "",
+      "url": "https://sujitwave2.gumroad.com/l/azibx",
+      "image": "https://public-files.gumroad.com/pp5ieu7xzsoaoo9bw8g6qfyvvmhz",
+      "category": "SaaS"
+    },
+    {
+      "id": "p0b8o33",
+      "name": "Minimalist Daily & Weekly Planner Pack (10 pages)",
+      "description": "10-page printable planner pack designed for daily and weekly task management.",
+      "price": "$5",
+      "rating": 5,
+      "reviews": 0,
+      "tag": "",
+      "url": "https://sujitwave2.gumroad.com/l/gkowsd",
+      "image": "https://public-files.gumroad.com/nwedbidfjt1jumg34j1h6a35n3tj",
+      "category": "Utility"
+    }
+  ],
+  "github": {
+    "repository": "SUJIT-G/gumroad-profile-designer-builder",
+    "branch": "main",
+    "token": "********",
+    "enabled": true
+  },
+  "seo": {
+    "metaTitle": "",
+    "metaDescription": "",
+    "ogImage": "",
+    "ogUrl": "",
+    "twitterCard": "summary_large_image"
+  }
+}
